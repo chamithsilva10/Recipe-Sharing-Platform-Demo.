@@ -46,17 +46,7 @@ Ensure the following are installed before running the project:
 
 ## How to Run
 
-1. Launch the backend server:
-    ```bash
-    npm run server
-    ```
-
-2. Start the frontend:
-    ```bash
-    npm run client
-    ```
-
-3. Access the application in your browser:
+1. Access the application in your browser:
     ```
     http://localhost:3000
     ```
