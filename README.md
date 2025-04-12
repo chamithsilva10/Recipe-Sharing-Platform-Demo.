@@ -64,8 +64,6 @@ Ensure the following are installed before running the project:
 ## Scripts
 
 - `npm run dev`: Runs both backend and frontend in development mode.
-- `npm run server`: Starts the backend server.
-- `npm run client`: Starts the frontend development server.
 - `npm run build`: Builds the frontend for production.
 
 ## Folder Structure
