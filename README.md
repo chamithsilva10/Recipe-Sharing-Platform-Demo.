@@ -105,6 +105,6 @@ We welcome contributions! Follow these steps:
 For any questions or feedback, feel free to reach out:
 
 - Email: chamithsilva10@gmail.com
-- GitHub: [your-username](https://github.com/chamithsilva10)
+- GitHub: https://github.com/chamithsilva10
 
 Happy cooking and sharing! 🍳#
